@@ -10,7 +10,7 @@
 
 ### Software Stack
 - **Python**: 3.13.1
-- **PyTorch**: 2.8.0+cu126 (CUDA-enabled)
+- **PyTorch**: 2.8.0+cu128 (CUDA-enabled)
 - **Jupyter Notebook**: Configured and operational
 
 ### Environment Status
